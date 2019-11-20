@@ -1,0 +1,10 @@
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\bin\Debug\Товар.accdb
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\bin\Debug\lab11.1_ManinYaroslav_AlekseevIgor_374.exe.config
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\bin\Debug\lab11.1_ManinYaroslav_AlekseevIgor_374.exe
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\bin\Debug\lab11.1_ManinYaroslav_AlekseevIgor_374.pdb
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\obj\Debug\lab11.1_ManinYaroslav_AlekseevIgor_374.csprojAssemblyReference.cache
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\obj\Debug\lab11._1_ManinYaroslav_AlekseevIgor_374.Form1.resources
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\obj\Debug\lab11._1_ManinYaroslav_AlekseevIgor_374.Properties.Resources.resources
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\obj\Debug\lab11.1_ManinYaroslav_AlekseevIgor_374.csproj.GenerateResource.cache
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\obj\Debug\lab11.1_ManinYaroslav_AlekseevIgor_374.exe
+C:\Users\fartu\source\repos\lab11.1_ManinYaroslav_AlekseevIgor_374\lab11.1_ManinYaroslav_AlekseevIgor_374\obj\Debug\lab11.1_ManinYaroslav_AlekseevIgor_374.pdb
